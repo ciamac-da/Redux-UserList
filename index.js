@@ -51,3 +51,4 @@ function buyCake() {
       store.dispatch(buyIceCream())
 
       unsubscribe()
+      

@@ -1,7 +1,6 @@
 {
   "name": "react-redux-evolution",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "redux": "^4.0.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciamac-da/Redux-Evo-STO.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ciamac-da/Redux-Evo-STO/issues"
+  },
+  "homepage": "https://github.com/ciamac-da/Redux-Evo-STO#readme",
+  "description": ""
 }
